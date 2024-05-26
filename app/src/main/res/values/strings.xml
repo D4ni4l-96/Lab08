@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="full_name">Full Name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="size">Size</string>
+    <string name="rate">Rate</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="pickup_time">Pickup time</string>
+    <string name="android_atc_pizza_shop">Android Atc Pizza Shop</string>
+    <string name="schedule_a_pickup">Schedule a Pickup</string>
+    <string name="price_small_rm5_medium_rm7_large_rm11_extra_large_rm14">Price: Small:RM5, Medium:RM7, Large:RM11, Extra Large:RM14</string>
+    <string name="select_your_pizza_size">Select your Pizza Size</string>
+    <string name="select_size">Select Size</string>
+</resources>
